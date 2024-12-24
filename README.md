@@ -1,6 +1,6 @@
 O programa foi desenvolvido utilizando as tecnologias Java, Spring, SQL, Html, CSS e Bootstrap.
 
-Devido às tecnologias utilizadas para que o back end funcione corretamente é preciso abrir o projeto em um compilador e executar 'SistemaApplication' como 'Java Aplication'. O path é '/sistema/src/main/java/com/projeto/sistema/SistemaApplication.java'. Após isso as paginas web funcionaram normalmente.
+Devido às tecnologias utilizadas para que o back end funcione corretamente é preciso abrir o projeto em uma IDE e executar 'SistemaApplication' como 'Java Aplication'. O path é '/sistema/src/main/java/com/projeto/sistema/SistemaApplication.java'. Após isso as paginas web funcionaram normalmente.
 
 O sistema possuí 3 páginas web sendo um index que direciona para a tela de cadastro e lista de registros.
 
