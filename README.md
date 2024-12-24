@@ -8,4 +8,7 @@ Na tela de cadastro é possível cadastrar produtos, tendo ao fim da página um 
 
 Na tela listar é possível visualizar todos os registros cadastrados no sistema, além de editar ou remover um registro. Ao fim da página listar também foi adicionado um botão voltar para retornar a página inicial do sistema
 
-Path das páginas WEB: Home: /sistema/src/main/resources/templates/administrativo/home.html Cadastro: /sistema/src/main/resources/templates/administrativo/produtos/cadastro.html Lista: /sistema/src/main/resources/templates/administrativo/produtos/lista.html
+Path das páginas WEB: 
+Home: /sistema/src/main/resources/templates/administrativo/home.html 
+Cadastro: /sistema/src/main/resources/templates/administrativo/produtos/cadastro.html 
+Lista: /sistema/src/main/resources/templates/administrativo/produtos/lista.html
