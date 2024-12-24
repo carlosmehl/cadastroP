@@ -10,5 +10,7 @@ Na tela listar é possível visualizar todos os registros cadastrados no sistema
 
 Path das páginas WEB: 
 Home: /sistema/src/main/resources/templates/administrativo/home.html 
+
 Cadastro: /sistema/src/main/resources/templates/administrativo/produtos/cadastro.html 
+
 Lista: /sistema/src/main/resources/templates/administrativo/produtos/lista.html
